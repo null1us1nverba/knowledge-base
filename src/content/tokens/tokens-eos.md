@@ -11,4 +11,4 @@
 
 ### How To Register EOS Tokens
 
-<div class="video__wrapper"><iframe width="560" height="315" src="https://www.youtube.com/embed/yBhXG6ig3M" frameborder="0" allowfullscreen></iframe></div>
+<div class="video__wrapper"><iframe width="560" height="315" src="https://www.youtube.com/embed/12BNIQuH4MI" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe></div>
